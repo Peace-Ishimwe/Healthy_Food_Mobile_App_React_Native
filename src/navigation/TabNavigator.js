@@ -10,7 +10,6 @@ const screenOptions = {
     headerShown: false,
     tabBarStyle: {
         position: 'absolute',
-        backgroundColor: '#fff',
         borderTopLeftRadius: 21,
         borderTopRightRadius: 21,
         backgroundColor: '#fff',
